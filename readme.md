@@ -54,7 +54,7 @@ Accessibility improves usability and ensures that digital products can be used e
 ## Proof of Execution
 
 ### Proof 1 – Accessibility Checklist
-![Accessibility Checklist](Accessibilitycheck.png)
+![Accessibility check](Accessibilitycheck.png)
 
 ### Proof 2 – Report Document
 ![Report Document](proof1.png)
