@@ -55,7 +55,7 @@ Accessibility improves usability and ensures that digital products can be used e
 
 ### Proof 1 – Accessibility Checklist
 
-Accessibility Check.png
+Accessibility check.png
 
 ### Proof 2 – Report Document
 
